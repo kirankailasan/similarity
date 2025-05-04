@@ -1,0 +1,515 @@
+[
+    {
+      "question": "What are the best tourist spots in Kerala?",
+      "answer": "Some of the best tourist spots in Kerala include Munnar, Alappuzha (Alleppey) Backwaters, Fort Kochi, Wayanad, Kovalam Beach, and Thekkady Wildlife Sanctuary."
+    },
+    {
+      "question": "Can you help me plan a trip to Kerala?",
+      "answer": "Yes, I can help you plan a trip to Kerala. Please provide details like your destination, travel dates, budget, number of people, and preferences."
+    },
+    {
+      "question": "What is the best time to visit Kerala?",
+      "answer": "The best time to visit Kerala is during the winter season, from October to March, when the weather is pleasant and ideal for sightseeing and outdoor activities."
+    },
+    {
+      "question": "What are the famous beaches in Kerala?",
+      "answer": "Some famous beaches in Kerala are Kovalam Beach, Varkala Beach, Marari Beach, Alappuzha Beach, and Cherai Beach."
+    },
+    {
+      "question": "What are the popular hill stations in Kerala?",
+      "answer": "Popular hill stations in Kerala include Munnar, Wayanad, Vagamon, Ponmudi, and Idukki."
+    },
+    {
+      "question": "Can you suggest some budget-friendly hotels in Kerala?",
+      "answer": "Yes, I can suggest budget-friendly hotels in Kerala. Please let me know your destination and travel dates."
+    },
+    {
+      "question": "What are the famous backwaters in Kerala?",
+      "answer": "The most famous backwaters in Kerala are in Alappuzha (Alleppey), Kumarakom, Kollam, and Kochi."
+    },
+    {
+      "question": "How can I book a houseboat in Kerala?",
+      "answer": "You can book a houseboat in Kerala through online platforms or local operators in Alappuzha or Kumarakom. Let me know if you'd like recommendations."
+    },
+    {
+      "question": "What are the must-try dishes in Kerala?",
+      "answer": "Some must-try dishes in Kerala include Appam with Stew, Kerala Sadya, Puttu and Kadala Curry, Malabar Parotta, and Karimeen Pollichathu."
+    },
+    {
+      "question": "What are the famous festivals in Kerala?",
+      "answer": "Famous festivals in Kerala include Onam, Vishu, Thrissur Pooram, Theyyam, and the Snake Boat Race (Vallam Kali)."
+    },
+    {
+      "question": "What are the best wildlife sanctuaries in Kerala?",
+      "answer": "The best wildlife sanctuaries in Kerala are Periyar Wildlife Sanctuary, Wayanad Wildlife Sanctuary, Chinnar Wildlife Sanctuary, and Parambikulam Tiger Reserve."
+    },
+    {
+      "question": "How can I travel within Kerala?",
+      "answer": "You can travel within Kerala using buses, trains, taxis, or by renting a car. For short distances, auto-rickshaws are also convenient."
+    },
+    {
+      "question": "What are the famous waterfalls in Kerala?",
+      "answer": "Famous waterfalls in Kerala include Athirappilly Falls, Vazhachal Falls, Meenmutty Falls, and Soochipara Falls."
+    },
+    {
+      "question": "What are the best activities to do in Kerala?",
+      "answer": "Some of the best activities in Kerala include houseboat cruises, trekking in Wayanad, exploring tea plantations in Munnar, and enjoying Ayurvedic spa treatments."
+    },
+    {
+      "question": "What are the famous temples in Kerala?",
+      "answer": "Famous temples in Kerala include Sabarimala Temple, Padmanabhaswamy Temple, Guruvayur Temple, and Vadakkunnathan Temple."
+    },
+    {
+      "question": "Can you suggest a 3-day itinerary for Kerala?",
+      "answer": "Sure! A 3-day itinerary could include Day 1: Munnar (tea plantations and waterfalls), Day 2: Alappuzha (backwater cruise), and Day 3: Fort Kochi (sightseeing and shopping)."
+    },
+    {
+      "question": "What are the best shopping places in Kerala?",
+      "answer": "The best shopping places in Kerala include Lulu Mall in Kochi, Broadway Market in Kochi, Chalai Market in Thiruvananthapuram, and the spice markets in Thekkady."
+    },
+    {
+      "question": "What are the famous art forms of Kerala?",
+      "answer": "Famous art forms of Kerala include Kathakali, Mohiniyattam, Theyyam, and Kalaripayattu (martial arts)."
+    },
+    {
+      "question": "Is Kerala safe for solo travelers?",
+      "answer": "Yes, Kerala is generally safe for solo travelers. However, it's always advisable to take standard precautions and stay in well-reviewed accommodations."
+    },
+    {
+      "question": "What are the best Ayurvedic centers in Kerala?",
+      "answer": "Some of the best Ayurvedic centers in Kerala include Kairali Ayurvedic Healing Village, Somatheeram Ayurvedic Health Resort, and Nagarjuna Ayurvedic Centre."
+    },
+    {
+      "question": "How can I reach Kerala?",
+      "answer": "You can reach Kerala by air (Cochin, Trivandrum, or Calicut airports), by train (major railway stations include Ernakulam, Trivandrum, and Kozhikode), or by road."
+    },
+    {
+      "question": "What are the famous churches in Kerala?",
+      "answer": "Famous churches in Kerala include St. Francis Church in Kochi, Santa Cruz Basilica, and Malayattoor Church."
+    },
+    {
+      "question": "What are the famous mosques in Kerala?",
+      "answer": "Famous mosques in Kerala include Cheraman Juma Masjid, Beemapally Mosque, and Malik Dinar Mosque."
+    },
+    {
+      "question": "Can you suggest a family-friendly itinerary for Kerala?",
+      "answer": "Sure! A family-friendly itinerary could include Munnar (tea plantations), Thekkady (wildlife sanctuary), and Alappuzha (houseboat cruise)."
+    },
+    {
+      "question": "What are the best honeymoon destinations in Kerala?",
+      "answer": "The best honeymoon destinations in Kerala include Munnar, Wayanad, Kumarakom, and Varkala."
+    },
+    {
+      "question": "What are the best adventure activities in Kerala?",
+      "answer": "Adventure activities in Kerala include trekking in Wayanad, bamboo rafting in Periyar, paragliding in Vagamon, and kayaking in the backwaters."
+    },
+    {
+      "question": "What are the best luxury resorts in Kerala?",
+      "answer": "Some of the best luxury resorts in Kerala include Kumarakom Lake Resort, The Leela Kovalam, and Taj Malabar Resort in Kochi."
+    },
+    {
+      "question": "What are the best places for photography in Kerala?",
+      "answer": "The best places for photography in Kerala include Munnar (tea plantations), Alappuzha (backwaters), Athirappilly Falls, and Fort Kochi."
+    },
+    {
+      "question": "What are the best places for birdwatching in Kerala?",
+      "answer": "The best places for birdwatching in Kerala include Kumarakom Bird Sanctuary, Thattekad Bird Sanctuary, and Mangalavanam Bird Sanctuary."
+    },
+    {
+        "question": "What are the best places to visit in Kerala during the monsoon?",
+        "answer": "During the monsoon, you can visit Athirappilly Falls, Wayanad, Munnar, Kumarakom Backwaters, and Thekkady for a lush and refreshing experience."
+      },
+      {
+        "question": "What are the best trekking spots in Kerala?",
+        "answer": "The best trekking spots in Kerala include Chembra Peak in Wayanad, Meesapulimala in Munnar, Agasthyakoodam in Trivandrum, and Dhoni Hills in Palakkad."
+      },
+      {
+        "question": "What are the best places for a weekend getaway in Kerala?",
+        "answer": "For a weekend getaway, you can visit Varkala Beach, Munnar, Alappuzha Backwaters, or Wayanad for a relaxing and rejuvenating experience."
+      },
+      {
+        "question": "What are the best places for camping in Kerala?",
+        "answer": "The best places for camping in Kerala include Wayanad, Vagamon, Munnar, and Gavi. These locations offer serene natural settings for camping."
+      },
+      {
+        "question": "What are the best places for stargazing in Kerala?",
+        "answer": "Munnar, Vagamon, and Wayanad are some of the best places for stargazing in Kerala due to their clear skies and minimal light pollution."
+      },
+      {
+        "question": "What are the best places for a romantic dinner in Kerala?",
+        "answer": "For a romantic dinner, you can visit The Rice Boat in Kochi, The Sky Grill in Trivandrum, or enjoy a houseboat dinner in Alappuzha."
+      },
+      {
+        "question": "What are the best places for a family picnic in Kerala?",
+        "answer": "The best places for a family picnic in Kerala include Veli Tourist Village in Trivandrum, Malampuzha Dam in Palakkad, and Marine Drive in Kochi."
+      },
+      {
+        "question": "What are the best places for a cultural experience in Kerala?",
+        "answer": "For a cultural experience, visit Fort Kochi for Kathakali performances, Thrissur for Theyyam, and Kalaripayattu centers in Wayanad."
+      },
+      {
+        "question": "What are the best places for a luxury houseboat experience in Kerala?",
+        "answer": "For a luxury houseboat experience, visit Kumarakom or Alappuzha Backwaters. Many operators offer premium houseboats with modern amenities."
+      },
+      {
+        "question": "What are the best places for a budget-friendly trip in Kerala?",
+        "answer": "For a budget-friendly trip, visit Wayanad, Alappuzha Backwaters, and Varkala Beach. These destinations offer affordable accommodations and activities."
+      },
+      {
+        "question": "What are the best places for a spiritual retreat in Kerala?",
+        "answer": "For a spiritual retreat, visit Sivananda Ashram in Neyyar Dam, Amritapuri Ashram in Kollam, or Kalari Kovilakom in Palakkad."
+      },
+      {
+        "question": "What are the best places for a wildlife safari in Kerala?",
+        "answer": "The best places for a wildlife safari in Kerala include Periyar Wildlife Sanctuary, Wayanad Wildlife Sanctuary, and Parambikulam Tiger Reserve."
+      },
+      {
+        "question": "What are the best places for a honeymoon in Kerala during the monsoon?",
+        "answer": "For a monsoon honeymoon, visit Munnar, Wayanad, Kumarakom Backwaters, or Varkala Beach for a romantic and serene experience."
+      },
+      {
+        "question": "What are the best places for a photography tour in Kerala?",
+        "answer": "For a photography tour, visit Munnar for tea plantations, Alappuzha for backwaters, Athirappilly Falls for waterfalls, and Fort Kochi for heritage sites."
+      },
+      {
+        "question": "What are the best places for a food tour in Kerala?",
+        "answer": "For a food tour, visit Kochi for seafood, Trivandrum for traditional Kerala Sadya, and Malabar for biryanis and unique Malabar cuisine."
+      },
+      {
+        "question": "What are the best places for a cycling tour in Kerala?",
+        "answer": "The best places for a cycling tour in Kerala include Munnar, Wayanad, and the backwater villages of Alappuzha and Kumarakom."
+      },
+      {
+        "question": "What are the best places for a yoga retreat in Kerala?",
+        "answer": "For a yoga retreat, visit Sivananda Ashram in Neyyar Dam, Somatheeram Ayurvedic Health Resort in Kovalam, or Varkala Beach."
+      },
+      {
+        "question": "What are the best places for a historical tour in Kerala?",
+        "answer": "For a historical tour, visit Fort Kochi, Mattancherry Palace, Bekal Fort, and the Jewish Synagogue in Kochi."
+      },
+      {
+        "question": "What are the best places for a nature walk in Kerala?",
+        "answer": "The best places for a nature walk in Kerala include Silent Valley National Park, Eravikulam National Park, and the tea gardens of Munnar."
+      },
+      {
+        "question": "What are the best places for a boat race experience in Kerala?",
+        "answer": "For a boat race experience, visit Alappuzha during the Nehru Trophy Boat Race or Aranmula during the Aranmula Vallamkali."
+      },
+      {
+        "question": "What are the best places for a spice plantation tour in Kerala?",
+        "answer": "For a spice plantation tour, visit Thekkady, Wayanad, or Munnar to explore cardamom, pepper, and cinnamon plantations."
+      },
+      {
+        "question": "What are the best places for a tea plantation tour in Kerala?",
+        "answer": "For a tea plantation tour, visit Munnar, Wayanad, or Vagamon to explore lush tea gardens and learn about tea processing."
+      },
+      {
+        "question": "What are the best places for a river cruise in Kerala?",
+        "answer": "For a river cruise, visit Alappuzha, Kollam, or Kochi to enjoy serene backwaters and scenic views."
+      },
+      {
+        "question": "What are the best places for a cultural festival in Kerala?",
+        "answer": "For a cultural festival, visit Thrissur for Thrissur Pooram, Kannur for Theyyam, and Alappuzha for the Snake Boat Race."
+      },
+      {
+        "question": "What are the best places for adventure sports in Kerala?",
+        "answer": "The best places for adventure sports in Kerala include Vagamon for paragliding, Wayanad for trekking, Alappuzha for kayaking, and Thekkady for bamboo rafting."
+    },
+    {
+        "question": "What are the best places for scuba diving in Kerala?",
+        "answer": "The best places for scuba diving in Kerala include Kovalam and Varkala, where you can explore the underwater marine life."
+    },
+    {
+        "question": "What are the best places for snorkeling in Kerala?",
+        "answer": "For snorkeling, visit Kovalam Beach or Varkala Beach to enjoy the vibrant marine ecosystem."
+    },
+    {
+        "question": "What are the best places for a romantic getaway in Kerala?",
+        "answer": "For a romantic getaway, visit Munnar, Kumarakom, Varkala Beach, or the backwaters of Alappuzha."
+    },
+    {
+        "question": "What are the best places for a weekend trek in Kerala?",
+        "answer": "For a weekend trek, visit Chembra Peak in Wayanad, Meesapulimala in Munnar, or Agasthyakoodam in Trivandrum."
+    },
+    {
+        "question": "What are the best places for a cultural tour in Kerala?",
+        "answer": "For a cultural tour, visit Fort Kochi for its colonial history, Thrissur for its temples and festivals, and Kannur for Theyyam performances."
+    },
+    {
+        "question": "What are the best places for a wellness retreat in Kerala?",
+        "answer": "For a wellness retreat, visit Somatheeram Ayurvedic Health Resort in Kovalam, Kairali Ayurvedic Healing Village in Palakkad, or Varkala Beach."
+    },
+    {
+        "question": "What are the best places for a spice market tour in Kerala?",
+        "answer": "For a spice market tour, visit the spice markets in Thekkady, Kochi, and Wayanad to explore fresh cardamom, pepper, and cinnamon."
+    },
+    {
+        "question": "What are the best places for a sunset view in Kerala?",
+        "answer": "The best places for a sunset view in Kerala include Varkala Beach, Kovalam Beach, and the backwaters of Kumarakom."
+    },
+    {
+        "question": "What are the best places for a sunrise view in Kerala?",
+        "answer": "For a stunning sunrise view, visit Munnar, Ponmudi, or the beaches of Kovalam and Varkala."
+    },
+    {
+        "question": "What are the best places for a plantation stay in Kerala?",
+        "answer": "For a plantation stay, visit Munnar for tea plantations, Wayanad for coffee plantations, or Thekkady for spice plantations."
+    },
+    {
+        "question": "What are the best places for a luxury spa experience in Kerala?",
+        "answer": "For a luxury spa experience, visit Kumarakom Lake Resort, The Leela Kovalam, or Taj Malabar Resort in Kochi."
+    },
+    {
+        "question": "What are the best places for a wildlife photography tour in Kerala?",
+        "answer": "For wildlife photography, visit Periyar Wildlife Sanctuary, Wayanad Wildlife Sanctuary, and Silent Valley National Park."
+    },
+    {
+        "question": "What are the best places for a honeymoon in Kerala during winter?",
+        "answer": "For a winter honeymoon, visit Munnar, Wayanad, Kumarakom, or the beaches of Varkala and Kovalam."
+    },
+    {
+        "question": "What are the best places for a monsoon trek in Kerala?",
+        "answer": "For a monsoon trek, visit Chembra Peak in Wayanad, Meesapulimala in Munnar, or Dhoni Hills in Palakkad."
+    },
+    {
+        "question": "What are the best places for a cultural dance performance in Kerala?",
+        "answer": "For cultural dance performances, visit Fort Kochi for Kathakali, Kannur for Theyyam, and Trivandrum for Mohiniyattam."
+    },
+    {
+        "question": "What are the best places for a traditional Kerala meal?",
+        "answer": "For a traditional Kerala meal, visit local restaurants in Kochi, Trivandrum, or Alappuzha that serve Kerala Sadya and seafood delicacies."
+    },
+    {
+        "question": "What are the best places for a houseboat honeymoon in Kerala?",
+        "answer": "For a houseboat honeymoon, visit Kumarakom or Alappuzha Backwaters for a romantic and serene experience."
+    },
+    {
+        "question": "What are the best places for a bird sanctuary tour in Kerala?",
+        "answer": "For a bird sanctuary tour, visit Kumarakom Bird Sanctuary, Thattekad Bird Sanctuary, and Mangalavanam Bird Sanctuary."
+    },
+    {
+        "question": "What are the best places for a temple tour in Kerala?",
+        "answer": "For a temple tour, visit Padmanabhaswamy Temple in Trivandrum, Guruvayur Temple in Thrissur, and Vadakkunnathan Temple in Thrissur."
+    },
+    {
+        "question": "What are the best places for a beachside dinner in Kerala?",
+        "answer": "For a beachside dinner, visit Kovalam Beach, Varkala Beach, or Marari Beach for a romantic dining experience."
+    },
+    {
+        "question": "What are the best places for a family vacation in Kerala?",
+        "answer": "For a family vacation, visit Munnar, Thekkady, Alappuzha Backwaters, and Kovalam Beach for a mix of nature and relaxation."
+    },
+    {
+        "question": "What are the best places for a weekend road trip in Kerala?",
+        "answer": "For a weekend road trip, visit Munnar, Wayanad, or Vagamon for scenic drives and relaxing stays."
+    },
+    {
+        "question": "What are the best places for a cultural heritage tour in Kerala?",
+        "answer": "For a cultural heritage tour, visit Fort Kochi, Mattancherry Palace, Bekal Fort, and the Jewish Synagogue in Kochi."
+    },
+    {
+        "question": "What are the best places for a luxury beach resort in Kerala?",
+        "answer": "For a luxury beach resort, visit The Leela Kovalam, Marari Beach Resort, or Niraamaya Retreats in Varkala."
+    },
+    {
+        "question": "What are the best places for a backwater village tour in Kerala?",
+        "answer": "For a backwater village tour, visit Alappuzha, Kumarakom, or Kollam to experience traditional Kerala village life."
+    },
+    {
+        "question": "What are the best places for a spice market shopping experience in Kerala?",
+        "answer": "For spice market shopping, visit Thekkady, Kochi, or Wayanad for fresh and aromatic spices."
+    },
+    {
+        "question": "How can I register on the website?",
+        "answer": "To register, click on the 'Register' button on the homepage and fill in your details. Once registered, you can log in to access your dashboard."
+    },
+    {
+        "question": "How can I log in to the website?",
+        "answer": "Click on the 'Login' button on the homepage and enter your registered email and password to access your dashboard."
+    },
+    {
+        "question": "What can I do on the dashboard?",
+        "answer": "On the dashboard, you can use the search bar to explore tourist spots in Kerala. You can view details, location on the map, and a picture carousel for each spot."
+    },
+    {
+        "question": "How can I plan a trip on the website?",
+        "answer": "To plan a trip, click on the 'Plan Trip' button on the dashboard. Enter details like location, dates, time, budget, preferences, and the number of people, then click 'Submit' to start planning."
+    },
+    {
+        "question": "What happens after I submit my trip plan details?",
+        "answer": "After submitting your trip plan details, the website will generate a trip plan. You will be redirected to the planned trip page, where you can view the itinerary on the left and the locations on the map on the right."
+    },
+    {
+        "question": "How can I view details about a specific location in my trip plan?",
+        "answer": "Click on the location name in your trip plan to open a popup with detailed information about the spot, including images."
+    },
+    {
+        "question": "How can I add a hotel to my trip plan?",
+        "answer": "When the chatbot asks, 'Do you want to choose a place to stay?', you can select a hotel from the available list or manually enter the hotel name and price."
+    },
+    {
+        "question": "Can I book a hotel directly from the website?",
+        "answer": "No, the website does not handle hotel bookings. However, you can click on the 'Book Now' button next to a hotel to be redirected to Google, where you can book the hotel."
+    },
+    {
+        "question": "Can I change the hotel name and price in my trip plan?",
+        "answer": "Yes, you can manually edit the hotel name and price fields in your trip plan."
+    },
+    {
+        "question": "How can I save my trip plan?",
+        "answer": "Once you are satisfied with your trip plan, click on the 'Save' button. Your trip plan will be saved, and you will be redirected to a new page with a 'Start Journey' button."
+    },
+    {
+        "question": "What happens when I click on the 'Start Journey' button?",
+        "answer": "Clicking on the 'Start Journey' button will take you to the journey page. The page starts with Day 1, showing a timer-like option with locations and a main map displaying your current location and the first spot."
+    },
+    {
+        "question": "How does the journey page work?",
+        "answer": "On the journey page, you can check in at each location on the timer. Once you check in at the first location, the map updates to show the route to the next location."
+    },
+    {
+        "question": "Can I view the route to each location during the journey?",
+        "answer": "Yes, the map on the journey page updates to show the route to the next location after you check in at the current location."
+    },
+    {
+        "question": "What is the purpose of the chatbot on the website?",
+        "answer": "The chatbot assists you during trip planning. It can suggest hotels and provide additional help, such as answering questions about your trip."
+    },
+    {
+        "question": "Can I edit my trip plan after saving it?",
+        "answer": "No, once the trip plan is saved, it cannot be edited. You can create a new trip plan if needed."
+    },
+    {
+        "question": "What happens if I don’t select a hotel during trip planning?",
+        "answer": "If you don’t select a hotel, you can proceed without adding one. The hotel part is optional and not prioritized."
+    },
+    {
+        "question": "Can I use the website without registering?",
+        "answer": "No, you need to register and log in to access the dashboard and use the trip planning features."
+    },
+    {
+        "question": "How can I view the map for a tourist spot?",
+        "answer": "When you search for a tourist spot on the dashboard, its location will be displayed on the map on the right side of the screen."
+    },
+    {
+        "question": "Can I view images of tourist spots on the website?",
+        "answer": "Yes, when you search for a tourist spot, a picture carousel will display images of the spot."
+    },
+    {
+        "question": "What should I do if I encounter an issue while using the website?",
+        "answer": "If you encounter an issue, you can contact support through the 'Contact Us' section or email us at contact@keralatguide.com."
+    },
+    {
+        "question": "What should I do if I forget my password?",
+        "answer": "If you forget your password, click on the 'Forgot Password' link on the login page. Enter your registered email to receive a password reset link."
+    },
+    {
+        "question": "Can I delete a saved trip plan?",
+        "answer": "Currently, the website does not support deleting saved trip plans. You can create a new trip plan if needed."
+    },
+    {
+        "question": "How can I update my profile information?",
+        "answer": "To update your profile information, go to the 'Profile' section on the dashboard and edit your details. Save the changes to update your profile."
+    },
+    {
+        "question": "Can I share my trip plan with others?",
+        "answer": "Yes, you can share your trip plan by copying the link to the saved trip plan page and sharing it with others."
+    },
+    {
+        "question": "What should I do if the map is not loading?",
+        "answer": "If the map is not loading, check your internet connection and refresh the page. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I add multiple hotels to my trip plan?",
+        "answer": "Currently, the website allows adding only one hotel to your trip plan. You can manually update the hotel details if needed."
+    },
+    {
+        "question": "What happens if I enter incorrect trip details?",
+        "answer": "If you enter incorrect trip details, you can go back to the 'Plan Trip' page and re-enter the correct information before submitting."
+    },
+    {
+        "question": "Can I view my trip plan on mobile devices?",
+        "answer": "Yes, the website is mobile-friendly, and you can view your trip plan on mobile devices with the same features as on desktop."
+    },
+    {
+        "question": "How can I contact support for help?",
+        "answer": "You can contact support by clicking on the 'Contact Us' link in the footer or by emailing us at contact@keralatguide.com."
+    },
+    {
+        "question": "What should I do if the chatbot is not responding?",
+        "answer": "If the chatbot is not responding, refresh the page and try again. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I customize the trip plan after it is generated?",
+        "answer": "Currently, the website does not support customizing the trip plan after it is generated. You can create a new trip plan with updated details."
+    },
+    {
+        "question": "What should I do if the website is running slow?",
+        "answer": "If the website is running slow, check your internet connection and try refreshing the page. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I use the website to plan trips outside Kerala?",
+        "answer": "No, the website is specifically designed for planning trips within Kerala and does not support other locations."
+    },
+    {
+        "question": "How can I view the total cost of my trip plan?",
+        "answer": "The total cost of your trip plan is displayed on the planned trip page, including the estimated budget and hotel price."
+    },
+    {
+        "question": "Can I add multiple preferences while planning a trip?",
+        "answer": "Yes, you can add multiple preferences while planning a trip, such as adventure, relaxation, or cultural experiences."
+    },
+    {
+        "question": "What should I do if the 'Plan Trip' button is not working?",
+        "answer": "If the 'Plan Trip' button is not working, refresh the page and try again. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I view the distance between locations in my trip plan?",
+        "answer": "Yes, the distance between locations is displayed on the map on the planned trip page."
+    },
+    {
+        "question": "What should I do if the images in the carousel are not loading?",
+        "answer": "If the images in the carousel are not loading, check your internet connection and refresh the page. If the issue persists, contact support."
+    },
+    {
+        "question": "Can I use the chatbot to ask questions about Kerala?",
+        "answer": "Yes, the chatbot can answer questions about Kerala, including tourist spots, activities, and general travel information."
+    },
+    {
+        "question": "What should I do if I encounter an error while saving my trip plan?",
+        "answer": "If you encounter an error while saving your trip plan, refresh the page and try again. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I view my saved trip plans after logging out?",
+        "answer": "No, you need to log in to view your saved trip plans. Ensure you are logged in to access your dashboard and saved trips."
+    },
+    {
+        "question": "What should I do if the 'Start Journey' button is not working?",
+        "answer": "If the 'Start Journey' button is not working, refresh the page and try again. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I use the website to plan group trips?",
+        "answer": "Yes, you can plan group trips by entering the number of people in the 'Plan Trip' form. The trip plan will be tailored to your group size."
+    },
+    {
+        "question": "What should I do if the chatbot suggests incorrect information?",
+        "answer": "If the chatbot suggests incorrect information, try rephrasing your question. If the issue persists, contact support for assistance."
+    },
+    {
+        "question": "Can I view the weather forecast for my trip plan?",
+        "answer": "Currently, the website does not provide weather forecasts. You can check the weather for your destinations using external services."
+    },
+    {
+        "question": "What should I do if the map is not showing my current location?",
+        "answer": "If the map is not showing your current location, ensure location services are enabled on your device and refresh the page."
+    },
+    {
+        "question": "Can I use the website to plan trips for multiple dates?",
+        "answer": "Currently, the website supports planning trips for a single date range. You can create separate trip plans for different dates."
+    },
+    {
+        "question": "What should I do if the website is not loading?",
+        "answer": "If the website is not loading, check your internet connection and try again. If the issue persists, contact support for assistance."
+    }
+
+  ]
