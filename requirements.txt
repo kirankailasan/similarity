@@ -2,3 +2,4 @@ Flask
 numpy
 sentence-transformers
 torch
+gradio
