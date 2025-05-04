@@ -19,7 +19,7 @@ def find_similar(question):
     if best_score >= 0.6:
         return QA_PAIRS[best_index]["answer"]
     else:
-        return "Sorry, I could not find a relevant answer."
+        return None 
 
 @app.route("/", methods=["POST"])
 def similarity_api():
