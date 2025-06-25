@@ -9,7 +9,7 @@ with open("qa.json", encoding="utf-8") as f:
     QA_PAIRS = json.load(f)
 
 QA_EMBEDDINGS = np.load("qa.npy")
-hf_model = SentenceTransformer('all-MiniLM-L6-v2')
+hf_model = SentenceTransformer('paraphrase-albert-small-v2')
 
 def find_similar(question):
     user_embedding = hf_model.encode(question, convert_to_tensor=True)
